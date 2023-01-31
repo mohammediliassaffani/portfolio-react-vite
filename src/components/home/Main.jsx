@@ -1,5 +1,5 @@
 import React from "react";
-import { Home } from "../../assets/Home.png";
+import Home from "../../assets/Home.png";
 
 const Main = () => {
   return (
