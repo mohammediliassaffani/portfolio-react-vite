@@ -1,6 +1,12 @@
 import React from "react";
 import home from "../../assets/home.jpg";
 import { TypeAnimation } from "react-type-animation";
+import {
+  FaTwitter,
+  FaFacebookF,
+  FaInstagram,
+  FaLinkedinIn,
+} from "react-icons/fa";
 const Main = () => {
   return (
     <div id="main">
@@ -13,17 +19,15 @@ const Main = () => {
         <div>
           <h1> Hi !I'm Iliass Affani</h1>
           <h2>
-            I'm a{" "}
+            I'm a
             <TypeAnimation
               sequence={[
-                "One", // Types 'One'
+                "Developper", // Types 'One'
                 1000, // Waits 1s
-                "Two", // Deletes 'One' and types 'Two'
+                "Web", // Deletes 'One' and types 'Two'
                 2000, // Waits 2s
-                "Two Three", // Types 'Three' without deleting 'Two'
-                () => {
-                  console.log("Done typing!"); // Place optional callbacks anywhere in the array
-                },
+                "and Mobile",
+                2000,
               ]}
               wrapper="div"
               cursor={true}
@@ -31,6 +35,12 @@ const Main = () => {
               style={{ fontSize: "2em" }}
             />
           </h2>
+          <div>
+            <FaTwitter />
+            <FaFacebookF />
+            <FaInstagram />
+            <FaLinkedinIn />
+          </div>
         </div>
       </div>
     </div>
