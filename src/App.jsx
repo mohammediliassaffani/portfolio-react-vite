@@ -10,6 +10,7 @@ function App() {
     <div className="App">
       <Sidenav />
       <Main />
+      <Skills />
     </div>
   );
 }
