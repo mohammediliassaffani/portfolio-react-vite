@@ -19,9 +19,11 @@ const Main = () => {
             I'm a
             <TypeAnimation
               sequence={[
-                "Developper Web/Mobile", // Types 'One'
-                1000, // Waits 1s
-                "Designer", // Deletes 'One' and types 'Two'
+                "Developper Web", // Types 'One'
+                1000,
+                "Developper Mobile", // Types 'One'
+                1000, // Waits 1s// Waits 1s
+                "Web Designer", // Deletes 'One' and types 'Two'
                 2000, // Waits 2s
                 "Tech enthusiast",
                 2000,
