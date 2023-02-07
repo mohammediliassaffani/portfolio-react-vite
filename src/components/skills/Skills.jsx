@@ -7,28 +7,42 @@ const data = [
     title: "content creator",
     duration: "3 years",
     details:
-      "loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem",
+      "loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreemloreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem",
   },
   {
     year: 2020,
     title: "content creator",
     duration: "3 years",
     details:
-      "loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem",
+      "loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreemloreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem",
   },
   {
     year: 2020,
     title: "content creator",
     duration: "3 years",
     details:
-      "loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem",
+      "loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem",
   },
   {
     year: 2020,
     title: "content creator",
     duration: "3 years",
     details:
-      "loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem",
+      "loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem",
+  },
+  {
+    year: 2020,
+    title: "content creator",
+    duration: "3 years",
+    details:
+      "loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem",
+  },
+  {
+    year: 2020,
+    title: "content creator",
+    duration: "3 years",
+    details:
+      "loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem loreem",
   },
 ];
 const Skills = () => {
