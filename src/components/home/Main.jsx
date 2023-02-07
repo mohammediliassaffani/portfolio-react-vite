@@ -11,7 +11,7 @@ const Main = () => {
         alt="home"
       />
       <div className="w-full h-screen absolute top-0 left-0 bg-blue-50/40 ">
-        <div className="max-w-[700px] m-auto h-full w-full flex flex-col justify-center lg:items-start items-center">
+        <div className="max-w-[400px] m-auto h-full w-full flex flex-col justify-center lg:items-start items-center">
           <h1 className="sm:text-5xl yexy-4xl font-bold text-gray-800">
             I'm Iliass Affani
           </h1>
